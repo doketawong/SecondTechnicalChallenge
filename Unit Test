@@ -1,0 +1,18 @@
+Implementation method: Test-driven approach
+
+LWW stated based tree
+
+1. Add Node to root Case
+2. Add Node to child Case
+3. Add two node to root
+4. Add two same node to root
+5. Add two same node to parent updated
+6. Add node to child complicated
+7. Add node to child complicated 2
+8. Remove node at root
+9. Remove node at child
+10.Remove node at child with multiple children
+11. Add node that is not exist
+12. Remove node that is not exist
+13. Query for parent
+14. Query for children
